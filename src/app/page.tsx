@@ -9,7 +9,7 @@ const posts = [
     id: 1,
     title: 'Exploring the Alps',
     description: 'A journey through the breathtaking landscapes of the Swiss Alps, from serene lakes to majestic peaks.',
-    imageUrl: 'https://placehold.co/600x400.png',
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTUYrDfsiKGQP738vmWen71vlq32OtG_aKgPuHp5xuTHful252T4J4O_os2JlvJvIsOdwgvr4OrZQxS_6lL-JJ-aSWrl0PP2zPe4z9PtbvehzTcAa2AndGqbiiVMwsXC1UU-DiEz6tJCJseSFXxwvLgvUoQsLA5Ggq6RM2oGz6Q0hOdn3McEE3AICkeVFR/s320/533403150_1414612602985356_8726370580683374717_n.jpg',
     imageHint: 'mountains landscape'
   },
   {
