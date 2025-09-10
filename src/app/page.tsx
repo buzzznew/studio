@@ -34,7 +34,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       // Replace this URL with your custom URL
-      router.push('www.google.com');
+      router.push('https://p.ketosud.com/top-5-hospitals-in-chennai-overview-facilities-expenses/?utm_source=BMW&utm_medium=Ss_pro');
     }, 5000);
 
     return () => clearTimeout(timer); // Cleanup the timer if the component unmounts
