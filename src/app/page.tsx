@@ -7,7 +7,7 @@ import { PostCard } from '@/components/post-card';
 const posts = [
   {
     id: 1,
-    title: 'Exploring the Alps',
+    title: 'Desi Full Movie',
     description: 'A journey through the breathtaking landscapes of the Swiss Alps, from serene lakes to majestic peaks.',
     imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgS-VYINT2NsiCqAIc_EP1yrEgmogoaOxwYwsRNs-rYAFjeyAPP8tLgsO2UQA6s-x0dw9rYx983pqDfvAIoD8J01b8ygPYcsN1_NE4_0HsOGAjC04fFRd0GW-e6Gy4StgyQ9aw0aCgr1hswOGYv2NiuvnMRWBnjc6YtjHrdWhTyNuWJzSKQYUa1mT/s200/Screenshot_2022-09-24-22-38-51-61_a23b203fd3aafc6dcb84e438dda678b6.jpg',
     imageHint: 'mountains landscape'
