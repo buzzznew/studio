@@ -9,7 +9,7 @@ const posts = [
     id: 1,
     title: 'Exploring the Alps',
     description: 'A journey through the breathtaking landscapes of the Swiss Alps, from serene lakes to majestic peaks.',
-    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTUYrDfsiKGQP738vmWen71vlq32OtG_aKgPuHp5xuTHful252T4J4O_os2JlvJvIsOdwgvr4OrZQxS_6lL-JJ-aSWrl0PP2zPe4z9PtbvehzTcAa2AndGqbiiVMwsXC1UU-DiEz6tJCJseSFXxwvLgvUoQsLA5Ggq6RM2oGz6Q0hOdn3McEE3AICkeVFR/s320/533403150_1414612602985356_8726370580683374717_n.jpg',
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgS-VYINT2NsiCqAIc_EP1yrEgmogoaOxwYwsRNs-rYAFjeyAPP8tLgsO2UQA6s-x0dw9rYx983pqDfvAIoD8J01b8ygPYcsN1_NE4_0HsOGAjC04fFRd0GW-e6Gy4StgyQ9aw0aCgr1hswOGYv2NiuvnMRWBnjc6YtjHrdWhTyNuWJzSKQYUa1mT/s200/Screenshot_2022-09-24-22-38-51-61_a23b203fd3aafc6dcb84e438dda678b6.jpg',
     imageHint: 'mountains landscape'
   },
   {
