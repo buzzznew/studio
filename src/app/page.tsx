@@ -9,7 +9,7 @@ const posts = [
     id: 1,
     title: 'Desi Full Movie',
     description: 'A journey through the breathtaking landscapes of the Swiss Alps, from serene lakes to majestic peaks.',
-    imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2F6000x4000&psig=AOvVaw37NZ5yHKeSatzz5yzasSqI&ust=1757578855193000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCfmtXhzY8DFQAAAAAdAAAAABAE',
+    imageUrl: 'https://media.istockphoto.com/id/169879328/photo/sultry-in-the-sun.jpg?s=2048x2048&w=is&k=20&c=Qmsja75CuTyvxIP4qYAUO1iYlY7OHO2uYo-dy_KLKLg=',
     imageHint: 'mountains landscape'
   },
   {
