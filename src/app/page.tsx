@@ -34,7 +34,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       // Replace this URL with your custom URL
-      router.push('https://example.com');
+      router.push('www.google.com');
     }, 5000);
 
     return () => clearTimeout(timer); // Cleanup the timer if the component unmounts
